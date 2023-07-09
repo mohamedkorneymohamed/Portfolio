@@ -1,0 +1,11 @@
+
+
+.nav-item .nav-link:hover {
+  color: var(--orange);
+  cursor: pointer;
+}
+
+.n-button {
+  flex: 2;
+}
+

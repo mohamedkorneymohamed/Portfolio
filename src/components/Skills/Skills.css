@@ -1,0 +1,258 @@
+
+/* left side */
+
+  
+  .awesome > :nth-child(1) {
+    color: var(--orange);
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+
+  /* right sided */
+  .cards {
+    position: relative;
+  }
+  .cards > * {
+    position: absolute;
+  }
+  
+  /* blur */
+  .s-blur2 {
+    left: 14rem;
+    top: 8rem;
+  }
+  
+  .s-blur1 {
+    top: 13rem;
+    left: -18rem;
+  }
+  
+
+  .c-button {
+      background: #FFFFFF;
+      box-shadow: 0px 19px 60px rgba(0, 0, 0, 0.08);
+      border-radius: 7px;
+      border: none;
+      padding: 10px;
+      font-size: 16px;
+      color: #5290FD;
+  }
+  
+  .c-button:hover{
+      transform: scale(1.1);
+      cursor: pointer;
+  }
+  /* cards */
+  
+  
+  
+  .progressCard>img{
+    width: 25px;
+  }
+  .progress{
+    height: 7px;
+  }
+
+  .card{
+    background-color: rgb(255 255 255 / 5%);
+    border: 2px solid var(--orangeCard);
+    box-shadow: var(--boxShadow);
+  }
+  .progress-bar {
+    background-color: #1a89e2;
+  }
+  .html{
+    animation: html 3s;
+    width: 95%;
+
+  }
+  @keyframes html {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 95%;
+    }
+  }
+  .css{
+    animation: css 3s;
+    width: 90%;
+
+  }
+  @keyframes css {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 90%;
+    }
+  }
+  .percentage{
+    font-size: 16px;
+  }
+  .bootstrap{
+    animation: bootstrap 3s;
+    width: 90%;
+
+  }
+  @keyframes bootstrap {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 90%;
+    }
+  }
+  .percentage{
+    font-size: 16px;
+  }
+  .javascript{
+    animation: javascript 3s;
+    width: 85%;
+
+  }
+  @keyframes javascript {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 85%;
+    }
+  }
+  .react{
+    animation: react 3s;
+    width: 85%;
+
+  }
+  @keyframes react {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 85%;
+    }
+  }
+  .sass{
+    animation: sass 3s;
+    width: 80%;
+
+  }
+  @keyframes sass {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 80%;
+    }
+  }
+  .jquery{
+    animation: jquery 3s;
+    width: 85%;
+
+  }
+  @keyframes jquery {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 85%;
+    }
+  }
+  .mysql{
+    animation: mysql 3s;
+    width: 75%;
+
+  }
+  @keyframes mysql {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 75%;
+    }
+  }
+  .mongo{
+    animation: mongo 3s;
+    width: 75%;
+
+  }
+  @keyframes mongo {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 75%;
+    }
+  }
+  .node{
+    animation: node 3s;
+    width: 65%;
+
+  }
+  @keyframes node {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 65%;
+    }
+  }
+  .database{
+    animation: database 3s;
+    width: 60%;
+
+  }
+  @keyframes database {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 60%;
+    }
+  }
+  .git{
+    animation: git 3s;
+    width: 60%;
+
+  }
+  @keyframes git {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 60%;
+    }
+  }
+  .github{
+    animation: github 3s;
+    width: 60%;
+
+  }
+  @keyframes github {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 60%;
+    }
+  }
+  .figma{
+    animation: figma 3s;
+    width: 60%;
+
+  }
+  @keyframes figma {
+    0%{
+      width: 0;
+    }
+    100%{
+width: 60%;
+    }
+  }
+  .percentage{
+    font-size: 16px;
+  }
+.header{
+  font-weight: bold;
+  color: #de8322;
+}
