@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d6387018.css",
-    "main.js": "/Portfolio/static/js/main.05fecf94.js",
+    "main.js": "/Portfolio/static/js/main.c1031de1.js",
     "static/media/food.png": "/Portfolio/static/media/food.20e60bc8914491099902.png",
     "static/media/ecommerce (1).png": "/Portfolio/static/media/ecommerce (1).57b982eb3186a3a54404.png",
     "static/media/portfolio3.png": "/Portfolio/static/media/portfolio3.4b5a10f23b8ae819d91e.png",
@@ -35,17 +35,17 @@
     "static/media/icons8-nodejs.svg": "/Portfolio/static/media/icons8-nodejs.cccdafa931eebdaea49f5c5ac3ba232f.svg",
     "static/media/icons8-github.svg": "/Portfolio/static/media/icons8-github.dc49a960a2d3c5a49c806f6188a7733b.svg",
     "static/media/icons8-javascript.svg": "/Portfolio/static/media/icons8-javascript.081325c6f229605dce15142ddd948d6d.svg",
-    "static/media/icons8-git.svg": "/Portfolio/static/media/icons8-git.43d387b77657117c0e407816cbf72476.svg",
     "index.html": "/Portfolio/index.html",
+    "static/media/icons8-git.svg": "/Portfolio/static/media/icons8-git.43d387b77657117c0e407816cbf72476.svg",
     "static/media/icons8-bootstrap.svg": "/Portfolio/static/media/icons8-bootstrap.91aad92a015faa64813b5f46723153a8.svg",
     "static/media/icons8-figma.svg": "/Portfolio/static/media/icons8-figma.44ca2c329ade686d78f62ad73790c621.svg",
     "static/media/icons8-css3.svg": "/Portfolio/static/media/icons8-css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/icons8-html.svg": "/Portfolio/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.d6387018.css.map": "/Portfolio/static/css/main.d6387018.css.map",
-    "main.05fecf94.js.map": "/Portfolio/static/js/main.05fecf94.js.map"
+    "main.c1031de1.js.map": "/Portfolio/static/js/main.c1031de1.js.map"
   },
   "entrypoints": [
     "static/css/main.d6387018.css",
-    "static/js/main.05fecf94.js"
+    "static/js/main.c1031de1.js"
   ]
 }
